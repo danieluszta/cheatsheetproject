@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+
+thead {
+    background-color: blueviolet;
+    color:white;
+}
+
+table {
+    border: solid 3px;
+    border-color: blueviolet;
+    border-spacing: 2px;
+    border-collapse: separate;
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    font-family: Roboto, sans-serif;
+}
+
+tbody td{
+    border-bottom: solid 1px;
+    border-color: blueviolet;
+}
+
+
+.tag {
+    background-color: beige;
+    font-family: 'PT Mono', sans-serif;
+}
+
+body{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+}
