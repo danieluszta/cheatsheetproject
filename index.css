@@ -38,3 +38,35 @@ body{
 h2{
     color:blueviolet;
 }
+
+button{
+    margin-bottom: 25px;
+    width: 200px;
+    font-size: 25px;
+    background-color: rgb(217, 186, 245);
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+}
+button:hover{
+    color:white;
+
+}
+
+button:active{
+     top: 1px;
+}
+
+.attribute {
+    background-color: rgb(181, 246, 246);
+}
+
+.k{
+    max-width: 100%;
+    height:auto;
+}
+
+.move{
+    position: sticky;
+    top: 0px;
+}
